@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrioritzedQueue.Console", "PrioritzedQueue.Console\PrioritzedQueue.Console.csproj", "{C1A8BD0F-923A-4A07-A298-22BBD4DD53F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrioritzedQueue.Tests", "PrioritzedQueue.Tests\PrioritzedQueue.Tests.csproj", "{B7775726-CEEB-452F-B510-CF50F7ECC088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C1A8BD0F-923A-4A07-A298-22BBD4DD53F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A8BD0F-923A-4A07-A298-22BBD4DD53F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A8BD0F-923A-4A07-A298-22BBD4DD53F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7775726-CEEB-452F-B510-CF50F7ECC088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7775726-CEEB-452F-B510-CF50F7ECC088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7775726-CEEB-452F-B510-CF50F7ECC088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7775726-CEEB-452F-B510-CF50F7ECC088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
